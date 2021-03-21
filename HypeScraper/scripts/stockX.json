@@ -1,0 +1,384 @@
+[
+    {
+        "SKU": "DC7627-001",
+        "NotrePrice": "$49.00 USD",
+        "brands": [
+            "Nike",
+            "Nike"
+        ],
+        "highestBids": [
+            70,
+            100
+        ],
+        "lowestAsks": [
+            70,
+            132
+        ]
+    },
+    {
+        "SKU": "CU1585-001",
+        "NotrePrice": "$69.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "DC7856-100",
+        "NotrePrice": "$99.00 USD",
+        "brands": [
+            "Nike"
+        ],
+        "highestBids": [
+            182
+        ],
+        "lowestAsks": [
+            95
+        ]
+    },
+    {
+        "SKU": "$49.00 USD",
+        "NotrePrice": "DC7627-101",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$79.00 USD",
+        "NotrePrice": "CU8048-133",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$49.00 USD",
+        "NotrePrice": "CU5518-397",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "54772-SAND",
+        "NotrePrice": "$179.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$179.00 USD",
+        "NotrePrice": "54760-NAVY",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$19.00 USD",
+        "NotrePrice": "CV2110-735",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "DC1982-400",
+        "NotrePrice": "$49.00 USD",
+        "brands": [
+            "Nike"
+        ],
+        "highestBids": [
+            65
+        ],
+        "lowestAsks": [
+            59
+        ]
+    },
+    {
+        "SKU": "DC1982-600",
+        "NotrePrice": "$49.00 USD",
+        "brands": [
+            "Nike"
+        ],
+        "highestBids": [
+            53
+        ],
+        "lowestAsks": [
+            50
+        ]
+    },
+    {
+        "SKU": "$49.00 USD",
+        "NotrePrice": "DC1982-001",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$79.00 USD",
+        "NotrePrice": "CD4373-102",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "AO0815-100",
+        "NotrePrice": "$279.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$89.00 USD",
+        "NotrePrice": "CK7238-325",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$39.00 USD",
+        "NotrePrice": "CT3303-001",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$59.00 USD",
+        "NotrePrice": "487754-702",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$99.00 USD",
+        "NotrePrice": "CD9664-001",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$79.00 USD",
+        "NotrePrice": "CT2898-401",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CU9180-101",
+        "NotrePrice": "$45.00 USD",
+        "brands": [
+            "Nike"
+        ],
+        "highestBids": [
+            45
+        ],
+        "lowestAsks": [
+            49
+        ]
+    },
+    {
+        "SKU": "$39.00 USD",
+        "NotrePrice": "CZ3776-001",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$49.00 USD",
+        "NotrePrice": "CT2896-001",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$79.00 USD",
+        "NotrePrice": "CI1392-100",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$79.00 USD",
+        "NotrePrice": "CI1392-400",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$359.00 USD",
+        "NotrePrice": "2260-1302-",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "2274-1302-",
+        "NotrePrice": "$339.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "2273-7547-",
+        "NotrePrice": "$359.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$409.00 USD",
+        "NotrePrice": "2289-3621-",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "55048-NAVY",
+        "NotrePrice": "$119.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CU5518-010",
+        "NotrePrice": "$49.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$79.00 USD",
+        "NotrePrice": "CU5393-010",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CZ1622-010",
+        "NotrePrice": "$119.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$29.00 USD",
+        "NotrePrice": "CU7855-482",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CW0939-308",
+        "NotrePrice": "$19.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$299.00 USD",
+        "NotrePrice": "CZ6799-002",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$39.00 USD",
+        "NotrePrice": "CU8051-891",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CW0939-133",
+        "NotrePrice": "$19.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$39.00 USD",
+        "NotrePrice": "CU8051-554",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CU7855-010",
+        "NotrePrice": "$29.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$79.00 USD",
+        "NotrePrice": "CZ6398-400",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CZ1524-002",
+        "NotrePrice": "$79.00 USD",
+        "brands": [
+            "Nike"
+        ],
+        "highestBids": [
+            100
+        ],
+        "lowestAsks": [
+            90
+        ]
+    },
+    {
+        "SKU": "$206.00 USD",
+        "NotrePrice": "622-68334-",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "CJ5188-308",
+        "NotrePrice": "$39.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "2219-7547-",
+        "NotrePrice": "$409.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$35.00 USD",
+        "NotrePrice": "BW-S20-L01",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "BW-S20-T02",
+        "NotrePrice": "$27.00 USD",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$105.00 USD",
+        "NotrePrice": "CJ5997-810",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$49.00 USD",
+        "NotrePrice": "CW2463-300",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    },
+    {
+        "SKU": "$69.99 USD",
+        "NotrePrice": "L41013700-",
+        "brands": [],
+        "highestBids": [],
+        "lowestAsks": []
+    }
+]
