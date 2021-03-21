@@ -17,7 +17,10 @@ class NotreSpider(scrapy.Spider):
         yield from response.follow_all(pagination_links, self.parse)
 
     def parse_products(self, response):
-        SKU = response.css('.product__copy-sub+ p::text').get()
-        yield {
-            'SKU' : SKU[5:]
-        }
+        SKU = response.css('.product__copy-sub+ p::text').get()[5:-2]
+        Price = response.css('.product-price > span .money::text').get()
+        if (len(SKU) == 10):
+            yield {
+            'SKU' : SKU,
+            'NotrePrice': Price,
+            }
